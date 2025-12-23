@@ -1,5 +1,5 @@
 const user = "deeepsek-dot";
-const repo = "AA";
+const repo = "aa";
 const folder = "images";
 
 const apiUrl = `https://api.github.com/repos/${user}/${repo}/contents/${folder}`;
